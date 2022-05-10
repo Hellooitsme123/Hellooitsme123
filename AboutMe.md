@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hellooitsme123
 - 👀 I’m interested in coding, specifically tools and games.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Bootstrap. At least I think.
-- 💞️ I’m not looking to collaborate on anything right now. <!--- I'm looking to collaborate on ... ---> 
+- 💞️ I’m not looking to collaborate on anything right now.
 - 📫 How to reach me ... Wait what
 
 <!---
